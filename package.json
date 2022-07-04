@@ -1,6 +1,20 @@
 {
   "name": "eslint-config-teja-base",
   "version": "0.0.1",
+  "author": {
+    "name": "Ezequiel Tejada",
+    "url": "https://github.com/ezequieltejada"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "homepage": "https://github.com/ezequieltejada/eslint-config-teja-base",
+  "bugs": "https://github.com/ezequieltejada/eslint-config-teja-base/issues",
+  "repository": {
+    "url": "https://github.com/ezequieltejada/eslint-config-teja-base",
+    "type": "git"
+  },
   "scripts": {
     "release": "standard-version && git push origin main --follow-tags",
     "release:minor": "standard-version --release-as minor",
@@ -14,5 +28,8 @@
     "@commitlint/config-conventional": "^17.0.3",
     "standard-version": "^9.5.0",
     "husky": "^8.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
   }
 }
