@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-teja-base",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "release": "standard-version && git push — follow-tags origin master",
     "release:minor": "standard-version --release-as minor",
