@@ -1,5 +1,5 @@
 module.exports = {
   rules: {
-    semi: [3, "always"],
+    semi: [1, "always"],
   },
 };
