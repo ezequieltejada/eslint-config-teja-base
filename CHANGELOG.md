@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/ezequieltejada/eslint-config-teja-base/compare/v1.0.0...v1.0.1) (2022-07-10)
+
+
+### Bug Fixes
+
+* fix incorrect level for semi rule ([e9a996f](https://github.com/ezequieltejada/eslint-config-teja-base/commit/e9a996f6863a25b003a07b334f8fb8bc09ce62be))
+
 ## [1.0.0](https://github.com/ezequieltejada/eslint-config-teja-base/compare/v0.0.1...v1.0.0) (2022-07-04)
 
 
